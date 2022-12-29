@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjunme&show_icons=true&theme=cobalt&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjunme)
 
 
 ### 🌱 I’m currently learning
