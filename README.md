@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 #### 주니어 프론트엔드 개발자입니다. 😄
 
 
-## 🚀 Most Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjunme&layout=compact&exclude_repo=pothole-detection)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Summary
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjunme&show_icons=true&hide=stars&theme=dracula)   
