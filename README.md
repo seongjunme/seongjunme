@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### 주니어 프론트엔드 개발자입니다. 😄
 
 
-## 🚀 Most Language  
+## 🚀 Most Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Summary
