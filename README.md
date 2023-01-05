@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 #### 안녕하세요.
 #### 주니어 프론트엔드 개발자입니다. 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjunme&show_icons=true&hide=stars&theme=dracula)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 Most Language  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 Summary
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongjunme&show_icons=true&hide=stars&theme=dracula)   
 
